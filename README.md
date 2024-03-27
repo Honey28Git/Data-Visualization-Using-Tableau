@@ -46,3 +46,6 @@ DATA DESCRIPTION:
 | K    | 2121     |
 | NW   | 2125     |
 
+![Screenshot 2024-03-27 221834](https://github.com/Honey28Git/Data-Visualization-Using-Tableau/assets/105299685/42d3a421-fb76-4ac5-9340-4ba79c8a5660)
+
+
