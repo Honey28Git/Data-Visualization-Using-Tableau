@@ -27,7 +27,7 @@ DATA DESCRIPTION:
 |                  | having a boutique, florist, boulangere/Bakery in their home)"                                                   |
 
 	
-	| Area | Zip Code |
+| Area | Zip Code |
 |------|----------|
 | CP   | 2108     |
 | M    | 2112     |
